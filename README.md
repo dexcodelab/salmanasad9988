@@ -5,7 +5,7 @@
 💞️✨✨
 
 ## Languages I Know
-<p align="left"> <a href="https://github.com/salmanasad9988"><img src="https://skillicons.dev/icons?i=cs,dotnet,js,jquery,angular,ts,html,bootstrap,vscode,postman,sqlite"> </a> </p>
+<p align="left"> <a href="https://github.com/salmanasad9988"><img src="https://skillicons.dev/icons?i=cs,dotnet,js,jquery,angular,ts,html,bootstrap,vscode,postman,sqlite,github"> </a> </p>
 
 ## Profile Views
   <table>
