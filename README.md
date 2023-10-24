@@ -28,12 +28,12 @@
   </table>
 
 ## My Stats:
-<p align="center">
+<p>
 <a href="https://github.com/salmanasad9988">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanasad9988&layout=compact&langs_count=10" />
 </a>
 </p>
 
-<p align="center">
+<p>
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=salmanasad9988&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
