@@ -35,5 +35,5 @@
 </p>
 
 <p>
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=salmanasad9988&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=dexcodelab&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
